@@ -90,7 +90,7 @@
 <a href="https://codepen.io/fakhar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fakhar23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhamad-fakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad-fakhar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19898876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19898876" height="30" width="40" /></a>
-<a href="https://codesandbox.com/fakhar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fakhar23" height="30" width="40" /></a>
+<a href="https://codesandbox.com/u/fakhar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fakhar23" height="30" width="40" /></a>
 <a href="https://instagram.com/fakhar.cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fakhar.cc" height="30" width="40" /></a>
 </p>
 
